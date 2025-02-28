@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Homepage -->
+  <url>
+    <loc>https://yourdomain.com/</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourdomain.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://yourdomain.com/de/"/>
+  </url>
+  
+  <!-- Services Pages -->
+  <url>
+    <loc>https://yourdomain.com/services/</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourdomain.com/en/services/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://yourdomain.com/de/services/"/>
+  </url>
+  
+  <!-- Individual Service Pages -->
+  <url>
+    <loc>https://yourdomain.com/services/ai-strategy-consulting/</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourdomain.com/en/services/ai-strategy-consulting/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://yourdomain.com/de/services/ai-strategy-consulting/"/>
+  </url>
+  
+  <url>
+    <loc>https://yourdomain.com/services/ai-integration-implementation/</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourdomain.com/en/services/ai-integration-implementation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://yourdomain.com/de/services/ai-integration-implementation/"/>
+  </url>
+  
+  <url>
+    <loc>https://yourdomain.com/services/ai-analytics-insights/</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourdomain.com/en/services/ai-analytics-insights/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://yourdomain.com/de/services/ai-analytics-insights/"/>
+  </url>
+  
+  <url>
+    <loc>https://yourdomain.com/services/process-automation/</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourdomain.com/en/services/process-automation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://yourdomain.com/de/services/process-automation/"/>
+  </url>
+  
+  <url>
+    <loc>https://yourdomain.com/services/ai-compliance-governance/</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourdomain.com/en/services/ai-compliance-governance/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://yourdomain.com/de/services/ai-compliance-governance/"/>
+  </url>
+  
+  <url>
+    <loc>https://yourdomain.com/services/ai-training-adoption/</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourdomain.com/en/services/ai-training-adoption/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://yourdomain.com/de/services/ai-training-adoption/"/>
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://yourdomain.com/about/</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourdomain.com/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://yourdomain.com/de/about/"/>
+  </url>
+  
+  <!-- Contact Page -->
+  <url>
+    <loc>https://yourdomain.com/contact/</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yourdomain.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://yourdomain.com/de/contact/"/>
+  </url>
+</urlset>
