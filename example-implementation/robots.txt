@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Block access to admin areas
+Disallow: /admin/
+Disallow: /wp-admin/
+
+# Block access to specific files
+Disallow: /*.json$
+Disallow: /*.xml$
+Disallow: /*.txt$
+Disallow: /*.js$
+Disallow: /*.css$
+
+# Block access to sensitive directories
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+# Allow access to sitemap
+Allow: /sitemap.xml
+
+# Sitemap location
+Sitemap: https://yourdomain.com/sitemap.xml
